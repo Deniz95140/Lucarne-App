@@ -1,0 +1,1527 @@
+{
+    "player": [
+        {
+            "id": 1,
+            "nom": "Ademola Lookman",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/230899.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Nigeria",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+            "clubs": "Atalanta",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/f/fd/Logo_Atalanta_Bergame_2024.svg",
+            "popularite": 5
+        },
+        {
+            "id": 2,
+            "nom": "Adrien Rabiot",
+            "img": "https://cdn.futwiz.com/assets/img/fc24/faces/210008.png",
+            "tags": [
+                "Milieu",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Olympique de Marseille",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/43/Logo_Olympique_de_Marseille.svg",
+            "popularite": 6
+        },
+        {
+            "id": 3,
+            "nom": "Alejandro Grimaldo",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/210035.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "Bayer Leverkusen",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Bayer_04_Leverkusen_%28logo%29.svg",
+            "popularite": 4
+        },
+        {
+            "id": 4,
+            "nom": "Andrew Robertson",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/216267.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Ecosse",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+            "clubs": "Liverpool",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/d/d2/Logo_Liverpool_FC_Liver_Bird.svg",
+            "popularite": 7
+        },
+        {
+            "id": 5,
+            "nom": "Ansu Fati",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/253004.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "Brighton",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/langfr-1024px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+            "popularite": 5
+        },
+        {
+            "id": 6,
+            "nom": "Antoine Griezmann",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/194765.png?25",
+            "tags": [
+                "Attaquant",
+                "Grizou",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Atlético Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Logo_ATM_2024.svg",
+            "popularite": 8
+        },
+        {
+            "id": 7,
+            "nom": "Antonio Rudiger",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/205452.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 7
+        },
+        {
+            "id": 8,
+            "nom": "Artem Dovbyk",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/242458.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Ukraine",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+            "clubs": "AS Roma",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/0/0e/AS_Roma_Logo_2017.svg",
+            "popularite": 4
+        },
+        {
+            "id": 9,
+            "nom": "Benjamin Pavard",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/226851.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Inter Milan",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+            "popularite": 6
+        },
+        {
+            "id": 10,
+            "nom": "Bernardo Silva",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/218667.png?25",
+            "tags": [
+                "Attaquant",
+                "Tiky",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Portugal",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "clubs": "Manchester City",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+            "popularite": 7
+        },
+        {
+            "id": 11,
+            "nom": "Bruno Fernandes",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/212198.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Portugal",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "clubs": "Manchester United",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Logo_Manchester_United_FC.svg",
+            "popularite": 7
+        },
+        {
+            "id": 12,
+            "nom": "Bukayo Saka",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/246669.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Arsenal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_Arsenal_FC_2002.svg",
+            "popularite": 6
+        },
+        {
+            "id": 13,
+            "nom": "Casemiro",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/200145.png?25",
+            "tags": [
+                "Milieu",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "Manchester United",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Logo_Manchester_United_FC.svg",
+            "popularite": 7
+        },
+        {
+            "id": 14,
+            "nom": "Christian Pulisic",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/227796.png?25",
+            "tags": [
+                "Attaquant",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Etats-Unis",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Flag_of_the_United_States.svg",
+            "clubs": "AC Milan",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+            "popularite": 5
+        },
+        {
+            "id": 15,
+            "nom": "Christopher Nkunku",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/232411.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Chelsea",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+            "popularite": 5
+        },
+        {
+            "id": 16,
+            "nom": "Cole Palmer",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/257534.png?25",
+            "tags": [
+                "Attaquant",
+                "Azzedine",
+                "Cold"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Chelsea",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+            "popularite": 7
+        },
+        {
+            "id": 17,
+            "nom": "Cristiano Ronaldo",
+            "img": "https://cdn.futwiz.com/assets/img/fifa17/faces/20801.png",
+            "tags": [
+                "Attaquant",
+                "GOAT",
+                "CR7",
+                "Ballon d'Or",
+                "Golden Ball",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Portugal",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "clubs": "Al-Nassr",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/9/9d/Logo_Al-Nassr.png",
+            "popularite": 10
+        },
+        {
+            "id": 18,
+            "nom": "Dani Carvajal",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/204963.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 8
+        },
+        {
+            "id": 19,
+            "nom": "Dani Olmo",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/244260.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "FC Barcelone",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+            "popularite": 6
+        },
+        {
+            "id": 20,
+            "nom": "Declan Gallagher",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/209935.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "Ecosse",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/10/Flag_of_Scotland.svg",
+            "clubs": "St. Mirren",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c0/St_mirren_fc.svg",
+            "popularite": 1
+        },
+        {
+            "id": 21,
+            "nom": "Declan Rice",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/234378.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Arsenal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_Arsenal_FC_2002.svg",
+            "popularite": 6
+        },
+        {
+            "id": 22,
+            "nom": "Dominik Szoboszlai",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/236772.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Hongrie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+            "clubs": "Liverpool",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/d/d2/Logo_Liverpool_FC_Liver_Bird.svg",
+            "popularite": 5
+        },
+        {
+            "id": 23,
+            "nom": "Dusan Vlahovic",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/246430.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Serbie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/State_Flag_of_Serbia.svg",
+            "clubs": "Juventus",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c5/Logo_Juventus_FC_2020.svg",
+            "popularite": 4
+        },
+        {
+            "id": 24,
+            "nom": "Ederson",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/210257.png?25",
+            "tags": [
+                "Gardien",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "Manchester City",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+            "popularite": 7
+        },
+        {
+            "id": 25,
+            "nom": "Emiliano Martinez",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/202811.png?25",
+            "tags": [
+                "Gardien",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Argentine",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+            "clubs": "Aston Villa",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/1/14/Aston_Villa_FC_2024.svg",
+            "popularite": 7
+        },
+        {
+            "id": 26,
+            "nom": "Enzo Fernandez",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/247090.png?25",
+            "tags": [
+                "Milieu",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Argentine",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+            "clubs": "Chelsea",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+            "popularite": 5
+        },
+        {
+            "id": 27,
+            "nom": "Erling Haaland",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/239085.png?25",
+            "tags": [
+                "Attaquant",
+                "Viking",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Norvège",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+            "clubs": "Manchester City",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+            "popularite": 10
+        },
+        {
+            "id": 28,
+            "nom": "Federico Valverde",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/239053.png?25",
+            "tags": [
+                "Milieu",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Uruguay",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 7
+        },
+        {
+            "id": 29,
+            "nom": "Fikayo Tomori",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/232756.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "AC Milan",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+            "popularite": 5
+        },
+        {
+            "id": 30,
+            "nom": "Florian Wirtz",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/256630.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "Bayer Leverkusen",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Bayer_04_Leverkusen_%28logo%29.svg",
+            "popularite": 7
+        },
+        {
+            "id": 31,
+            "nom": "Gabriel Martinelli",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/251566.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "Arsenal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_Arsenal_FC_2002.svg",
+            "popularite": 4
+        },
+        {
+            "id": 32,
+            "nom": "Gavi",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/264240.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "FC Barcelone",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+            "popularite": 6
+        },
+        {
+            "id": 33,
+            "nom": "Gianluigi Donnarumma",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/230621.png?25",
+            "tags": [
+                "Gardien"
+            ],
+            "pays": "Italie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+            "clubs": "Paris Saint-Germain",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_Paris_Saint-Germain_2024.svg",
+            "popularite": 7
+        },
+        {
+            "id": 34,
+            "nom": "Giovanni Di Lorenzo",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/217870.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "Italie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+            "clubs": "Naples",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Neapel.svg",
+            "popularite": 3
+        },
+        {
+            "id": 35,
+            "nom": "Granit Xhaka",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/199503.png?25",
+            "tags": [
+                "Milieu",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Suisse",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+            "clubs": "Bayer Leverkusen",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Bayer_04_Leverkusen_%28logo%29.svg",
+            "popularite": 4
+        },
+        {
+            "id": 36,
+            "nom": "Hakan Calhanoglu",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/208128.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Turquie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+            "clubs": "Inter Milan",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+            "popularite": 6
+        },
+        {
+            "id": 37,
+            "nom": "Harry Kane",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/202126.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Bayern Munich",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg",
+            "popularite": 8
+        },
+        {
+            "id": 38,
+            "nom": "Ivan Perisic",
+            "img": "https://cdn.futwiz.com/assets/img/fc24/faces/181458.png",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Croatie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+            "clubs": "PSV Eindhoven",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/b0/Logo_PSV_Eindhoven_2024.svg",
+            "popularite": 5
+        },
+        {
+            "id": 39,
+            "nom": "James Maddison",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/220697.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Tottenham Hotspur",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/7/7b/Logo_Tottenham_Hotspur_Football_Club_2024.svg",
+            "popularite": 4
+        },
+        {
+            "id": 40,
+            "nom": "Jeremy Doku",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/246420.png?25",
+            "tags": [
+                "Attaquant",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Belgique",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+            "clubs": "Manchester City",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+            "popularite": 6
+        },
+        {
+            "id": 41,
+            "nom": "Jordan Henderson",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/183711.png?25",
+            "tags": [
+                "Milieu",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Al-Ettifaq",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/f/fd/Al-Ettifaq_%28logo%29.png",
+            "popularite": 5
+        },
+        {
+            "id": 42,
+            "nom": "Jorginho",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/205498.png?25",
+            "tags": [
+                "Milieu",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Italie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+            "clubs": "Arsenal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_Arsenal_FC_2002.svg",
+            "popularite": 8
+        },
+        {
+            "id": 43,
+            "nom": "Joshua Kimmich",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/212622.png?25",
+            "tags": [
+                "Milieu",
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "Bayern Munich",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg",
+            "popularite": 7
+        },
+        {
+            "id": 44,
+            "nom": "Joao Cancelo",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/210514.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Portugal",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "clubs": "Al-Hilal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Al_Hilal_SFC_Logo.svg",
+            "popularite": 6
+        },
+        {
+            "id": 45,
+            "nom": "Joao Felix",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/242444.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Portugal",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "clubs": "Chelsea",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/5/51/Logo_Chelsea.svg",
+            "popularite": 5
+        },
+        {
+            "id": 46,
+            "nom": "Jude Bellingham",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/252371.png?25",
+            "tags": [
+                "Milieu",
+                "Belligoal",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 10
+        },
+        {
+            "id": 47,
+            "nom": "Jules Koundé",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/241486.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "FC Barcelone",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+            "popularite": 6
+        },
+        {
+            "id": 48,
+            "nom": "Kaoru Mitoma",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/255565.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Japon",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg",
+            "clubs": "Brighton",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/d/dd/Logo_Brighton_%26_Hove_Albion_2024.svg/langfr-1024px-Logo_Brighton_%26_Hove_Albion_2024.svg.png",
+            "popularite": 5
+        },
+        {
+            "id": 49,
+            "nom": "Kevin De Bruyne",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/192985.png?25",
+            "tags": [
+                "Milieu",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Belgique",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+            "clubs": "Manchester City",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+            "popularite": 9
+        },
+        {
+            "id": 50,
+            "nom": "Kevin Trapp",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/188943.png?25",
+            "tags": [
+                "Gardien"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "Eintracht Francfort",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png",
+            "popularite": 5
+        },
+        {
+            "id": 51,
+            "nom": "Khvicha Kvaratskhelia",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/247635.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Géorgie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+            "clubs": "Naples",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/2/2d/SSC_Neapel.svg",
+            "popularite": 7
+        },
+        {
+            "id": 52,
+            "nom": "Kim Min-jae",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/237086.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "Corée du Sud",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+            "clubs": "Bayern Munich",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg",
+            "popularite": 4
+        },
+        {
+            "id": 53,
+            "nom": "Kylian Mbappé",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/231747.png?25",
+            "tags": [
+                "Attaquant",
+                "KM7",
+                "Noisette",
+                "Tortue",
+                "Donnatello",
+                "Guibon",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 10
+        },
+        {
+            "id": 54,
+            "nom": "Lamine Yamal",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/277643.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "FC Barcelone",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+            "popularite": 7
+        },
+        {
+            "id": 55,
+            "nom": "Lautaro Martínez",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/231478.png?25",
+            "tags": [
+                "Attaquant",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Argentine",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+            "clubs": "Inter Milan",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/FC_Internazionale_Milano_2021.svg",
+            "popularite": 7
+        },
+        {
+            "id": 56,
+            "nom": "Leandro Paredes",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/207439.png?25",
+            "tags": [
+                "Milieu",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Argentine",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+            "clubs": "AS Roma",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/0/0e/AS_Roma_Logo_2017.svg",
+            "popularite": 5
+        },
+        {
+            "id": 57,
+            "nom": "Lionel Messi",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/158023.png?25",
+            "tags": [
+                "Attaquant",
+                "GOAT",
+                "LM10",
+                "Leo Messi",
+                "Pulga",
+                "Ballon d'Or",
+                "Golden Ball",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Argentine",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+            "clubs": "Inter Miami",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/46/Inter_Miami_CF_%28logo%29.svg",
+            "popularite": 10
+        },
+        {
+            "id": 58,
+            "nom": "Lucas Paquetá",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/233927.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "West Ham",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c2/West_Ham_United_FC_logo.svg",
+            "popularite": 5
+        },
+        {
+            "id": 59,
+            "nom": "Luis Diaz",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/241084.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Colombie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+            "clubs": "Liverpool",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/d/d2/Logo_Liverpool_FC_Liver_Bird.svg",
+            "popularite": 5
+        },
+        {
+            "id": 60,
+            "nom": "Marc-André ter Stegen",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/192448.png?25",
+            "tags": [
+                "Gardien",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "FC Barcelone",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+            "popularite": 7
+        },
+        {
+            "id": 61,
+            "nom": "Marco Reus",
+            "img": "https://cdn.futwiz.com/assets/img/fc24/faces/188350.png",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "LA Galaxy",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/1/14/Logo_Los_Angeles_Galaxy_2024.svg",
+            "popularite": 7
+        },
+        {
+            "id": 62,
+            "nom": "Marcus Rashford",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/231677.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Manchester United",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Logo_Manchester_United_FC.svg",
+            "popularite": 7
+        },
+        {
+            "id": 63,
+            "nom": "Marquinhos",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/207865.png?25",
+            "tags": [
+                "Defenseur",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "Al-Hilal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Al_Hilal_SFC_Logo.svg",
+            "popularite": 10
+        },
+        {
+            "id": 64,
+            "nom": "Martin Odegaard",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/222665.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Norvège",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+            "clubs": "Arsenal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_Arsenal_FC_2002.svg",
+            "popularite": 7
+        },
+        {
+            "id": 65,
+            "nom": "Mats Hummels",
+            "img": "https://cdn.futwiz.com/assets/img/fc24/faces/178603.png",
+            "tags": [
+                "Defenseur",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "AS Roma",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/0/0e/AS_Roma_Logo_2017.svg",
+            "popularite": 4
+        },
+        {
+            "id": 66,
+            "nom": "Matthijs de Ligt",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/235243.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "Pays-Bas",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+            "clubs": "Bayern Munich",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/8/8d/FC_Bayern_M%C3%BCnchen_logo_%282024%29.svg",
+            "popularite": 6
+        },
+        {
+            "id": 67,
+            "nom": "Mike Maignan",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/215698.png?25",
+            "tags": [
+                "Gardien",
+                "91"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "AC Milan",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+            "popularite": 7
+        },
+        {
+            "id": 68,
+            "nom": "Mohamed Salah",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/209331.png?25",
+            "tags": [
+                "Attaquant",
+                "King",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Egypte",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+            "clubs": "Liverpool",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/d/d2/Logo_Liverpool_FC_Liver_Bird.svg",
+            "popularite": 10
+        },
+        {
+            "id": 69,
+            "nom": "Moussa Diaby",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/241852.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Al-Ittihad",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/41/Al-Ittihad_2649.png",
+            "popularite": 5
+        },
+        {
+            "id": 70,
+            "nom": "Neymar",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/190871.png?25",
+            "tags": [
+                "Attaquant",
+                "Prince",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "Al-Hilal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Al_Hilal_SFC_Logo.svg",
+            "popularite": 10
+        },
+        {
+            "id": 71,
+            "nom": "Nico Williams",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/256516.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "Athletic Bilbao",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_Athletic_Club_Bilbao.svg",
+            "popularite": 7
+        },
+        {
+            "id": 72,
+            "nom": "Olivier Giroud",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/178509.png?25",
+            "tags": [
+                "Attaquant",
+                "LAFC",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Los Angeles FC",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/7/79/Logo_Los_Angeles_FC_2021.svg",
+            "popularite": 7
+        },
+        {
+            "id": 73,
+            "nom": "Omar Marmoush",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/256675.png?25",
+            "tags": [
+                "Attaquant",
+                "Ahmed"
+            ],
+            "pays": "Egypte",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+            "clubs": "Eintracht Francfort",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Eintracht_Frankfurt_Logo.svg/1200px-Eintracht_Frankfurt_Logo.svg.png",
+            "popularite": 6
+        },
+        {
+            "id": 74,
+            "nom": "Paulo Dybala",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/211110.png?25",
+            "tags": [
+                "Attaquant",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Argentine",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg",
+            "clubs": "AS Roma",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/0/0e/AS_Roma_Logo_2017.svg",
+            "popularite": 7
+        },
+        {
+            "id": 75,
+            "nom": "Pedri",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/251854.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "FC Barcelone",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+            "popularite": 6
+        },
+        {
+            "id": 76,
+            "nom": "Phil Foden",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/237692.png?25",
+            "tags": [
+                "Attaquant",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Manchester City",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+            "popularite": 7
+        },
+        {
+            "id": 77,
+            "nom": "Pierre-Emile Hojbjerg",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/213648.png?25",
+            "tags": [
+                "Milieu",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Danemark",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+            "clubs": "Tottenham Hotspur",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/7/7b/Logo_Tottenham_Hotspur_Football_Club_2024.svg",
+            "popularite": 4
+        },
+        {
+            "id": 78,
+            "nom": "Rafael Leao",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/241721.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Portugal",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "clubs": "AC Milan",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Logo_of_AC_Milan.svg",
+            "popularite": 7
+        },
+        {
+            "id": 79,
+            "nom": "Randal Kolo Muani",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/237679.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Paris Saint-Germain",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_Paris_Saint-Germain_2024.svg",
+            "popularite": 5
+        },
+        {
+            "id": 80,
+            "nom": "Raphael Varane",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/201535.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Manchester United",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/5/5b/Logo_Manchester_United_FC.svg",
+            "popularite": 10
+        },
+        {
+            "id": 81,
+            "nom": "Riyad Mahrez",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/204485.png?25",
+            "tags": [
+                "Attaquant",
+                "Slimane",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Algérie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+            "clubs": "Al-Ahli",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/45/Al_Ahli_Saudi_FC_logo.svg",
+            "popularite": 8
+        },
+        {
+            "id": 82,
+            "nom": "Robert Lewandowski",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/188545.png?25",
+            "tags": [
+                "Attaquant",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Pologne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/1/12/Flag_of_Poland.svg",
+            "clubs": "FC Barcelone",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/thumb/a/a1/Logo_FC_Barcelona.svg/1200px-Logo_FC_Barcelona.svg.png",
+            "popularite": 8
+        },
+        {
+            "id": 83,
+            "nom": "Rodri",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/231866.png?25",
+            "tags": [
+                "Milieu",
+                "Ballon d'Or",
+                "Golden Ball",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "Manchester City",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+            "popularite": 10
+        },
+        {
+            "id": 84,
+            "nom": "Rodrygo",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/243812.png?25",
+            "tags": [
+                "Attaquant",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 7
+        },
+        {
+            "id": 85,
+            "nom": "Romelu Lukaku",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/192505.png?25",
+            "tags": [
+                "Attaquant",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Belgique",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+            "clubs": "AS Roma",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/0/0e/AS_Roma_Logo_2017.svg",
+            "popularite": 7
+        },
+        {
+            "id": 86,
+            "nom": "Ruben Dias",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/239818.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Portugal",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "clubs": "Manchester City",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/b/ba/Logo_Manchester_City_2016.svg",
+            "popularite": 6
+        },
+        {
+            "id": 87,
+            "nom": "Sandro Tonali",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/241096.png?25",
+            "tags": [
+                "Milieu",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Italie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+            "clubs": "Newcastle United",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_Newcastle_United.svg",
+            "popularite": 5
+        },
+        {
+            "id": 88,
+            "nom": "Sergej Milinković-Savić",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/223848.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Serbie",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/State_Flag_of_Serbia.svg",
+            "clubs": "Al-Hilal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Al_Hilal_SFC_Logo.svg",
+            "popularite": 5
+        },
+        {
+            "id": 89,
+            "nom": "Sven Botman",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/251809.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "Pays-Bas",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+            "clubs": "Newcastle United",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/6/63/Logo_Newcastle_United.svg",
+            "popularite": 2
+        },
+        {
+            "id": 90,
+            "nom": "Karim Benzema",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/165153.png?25",
+            "tags": [
+                "Attaquant",
+                "KB9",
+                "Fumier",
+                "Ballon d'Or",
+                "Golden Ball",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Al-Ittihad",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/41/Al-Ittihad_2649.png",
+            "popularite": 9
+        },
+        {
+            "id": 91,
+            "nom": "Timo Werner",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/212188.png?25",
+            "tags": [
+                "Attaquant",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "Tottenham Hotspur",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/7/7b/Logo_Tottenham_Hotspur_Football_Club_2024.svg",
+            "popularite": 6
+        },
+        {
+            "id": 92,
+            "nom": "Toni Kroos",
+            "img": "https://cdn.futwiz.com/assets/img/fc24/faces/182521.png",
+            "tags": [
+                "Milieu",
+                "Loisiel",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc",
+                "Coupe du Monde",
+                "World Cup",
+                "cdm"
+            ],
+            "pays": "Allemagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 7
+        },
+        {
+            "id": 93,
+            "nom": "Trent Alexander-Arnold",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/231281.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Angleterre",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_England.svg",
+            "clubs": "Liverpool",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/d/d2/Logo_Liverpool_FC_Liver_Bird.svg",
+            "popularite": 8
+        },
+        {
+            "id": 94,
+            "nom": "Victor Boniface",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/247679.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Nigeria",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+            "clubs": "Bayer Leverkusen",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/4/4a/Bayer_04_Leverkusen_%28logo%29.svg",
+            "popularite": 3
+        },
+        {
+            "id": 95,
+            "nom": "Victor Osimhen",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/232293.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Nigeria",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+            "clubs": "Galatasaray",
+            "club_img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Galatasaray_4_Sterne_Logo.svg",
+            "popularite": 7
+        },
+        {
+            "id": 96,
+            "nom": "Vinicius Junior",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/238794.png?25",
+            "tags": [
+                "Attaquant",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 10
+        },
+        {
+            "id": 97,
+            "nom": "Vitinha",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/255253.png?25",
+            "tags": [
+                "Milieu"
+            ],
+            "pays": "Portugal",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+            "clubs": "Paris Saint-Germain",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/f/ff/Logo_Paris_Saint-Germain_2024.svg",
+            "popularite": 5
+        },
+        {
+            "id": 98,
+            "nom": "Wilfried Zaha",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/198717.png?25",
+            "tags": [
+                "Attaquant"
+            ],
+            "pays": "Côte d'Ivoire",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+            "clubs": "Olympique Lyonnais",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/a/a5/Logo_Olympique_Lyonnais_-_2022.svg",
+            "popularite": 5
+        },
+        {
+            "id": 99,
+            "nom": "William Saliba",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/243715.png?25",
+            "tags": [
+                "Defenseur"
+            ],
+            "pays": "France",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
+            "clubs": "Arsenal",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/3/34/Logo_Arsenal_FC_2002.svg",
+            "popularite": 6
+        },
+        {
+            "id": 100,
+            "nom": "Alvaro Morata",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/201153.png?25",
+            "tags": [
+                "Attaquant",
+                "Hors-Jeu",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Espagne",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Spain.svg",
+            "clubs": "Atlético Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/f/fc/Logo_ATM_2024.svg",
+            "popularite": 7
+        },
+        {
+            "id": 101,
+            "nom": "Eder Militão",
+            "img": "https://cdn.futwiz.com/assets/img/fc25/faces/240130.png?25",
+            "tags": [
+                "Defenseur",
+                "Ligue des Champions",
+                "Champions League",
+                "ldc"
+            ],
+            "pays": "Brésil",
+            "pays_img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg",
+            "clubs": "Real Madrid",
+            "club_img": "https://upload.wikimedia.org/wikipedia/fr/c/c7/Logo_Real_Madrid.svg",
+            "popularite": 6
+        }
+    ]
+}

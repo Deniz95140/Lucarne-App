@@ -1,0 +1,304 @@
+/*=====================LOADER=====================*/
+.loaderC {
+    position: absolute;
+    background-color: #232429;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: loader 4s ease-in-out;
+    -webkit-transition: loader 4s ease-in-out;
+    /* Ajout WebKit */
+    top: 0;
+    left: 0;
+    animation: Load 2s forwards;
+    -webkit-animation: Load 2s forwards;
+    /* Ajout WebKit */
+    pointer-events: none;
+}
+
+.pt {
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    -webkit-border-radius: 40px;
+    /* Ajout WebKit */
+    background-image: url('../img/load.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0 15px;
+    animation: loader 1.5s alternate;
+    -webkit-animation: loader 1.5s alternate;
+    /* Ajout WebKit */
+    z-index: 2000;
+}
+
+.del2 {
+    animation-delay: 0.05s;
+    -webkit-animation-delay: 0.05s;
+    /* Ajout WebKit */
+}
+
+.del3 {
+    animation-delay: 0.1s;
+    -webkit-animation-delay: 0.1s;
+    /* Ajout WebKit */
+}
+
+header,
+main,
+nav,
+footer {
+    animation: Page 1.8s forwards;
+    -webkit-animation: Page 1.8s forwards;
+    /* Ajout WebKit */
+}
+
+@keyframes loader {
+    100% {
+        transform: translateY(-30px);
+    }
+}
+
+@-webkit-keyframes loader {
+
+    /* Ajout WebKit */
+    100% {
+        -webkit-transform: translateY(-30px);
+    }
+}
+
+@keyframes Load {
+    0% {
+        opacity: 100%;
+    }
+
+    80% {
+        opacity: 100%;
+    }
+
+    99% {
+        opacity: 0;
+    }
+
+    100% {
+        display: none;
+        opacity: 0;
+    }
+}
+
+@-webkit-keyframes Load {
+
+    /* Ajout WebKit */
+    0% {
+        opacity: 100%;
+    }
+
+    80% {
+        opacity: 100%;
+    }
+
+    99% {
+        opacity: 0;
+    }
+
+    100% {
+        display: none;
+        opacity: 0;
+    }
+}
+
+@keyframes Page {
+    0% {
+        opacity: 0;
+    }
+
+    99% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}
+
+@-webkit-keyframes Page {
+
+    /* Ajout WebKit */
+    0% {
+        opacity: 0;
+    }
+
+    99% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 100%;
+    }
+}
+
+/*=====================LOADER=====================*/
+/*=====================Home=====================*/
+
+* {
+    font-family: Montserrat;
+    box-sizing: border-box;
+}
+
+body {
+    margin: auto;
+    background-color: #232429;
+    object-fit: contain;
+    background-repeat: repeat;
+    background-size: 25%;
+    -webkit-background-size: 25%;
+}
+
+h1 {
+    font-size: 3rem;
+    text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+    letter-spacing: 0.05em;
+}
+
+input::placeholder {
+    color: white !important;
+}
+
+.checkbox-wrapper-46 input[type="checkbox"] {
+    display: none;
+    visibility: hidden;
+}
+
+.checkbox-wrapper-46 .cbx {
+    margin: auto;
+    -webkit-user-select: none;
+    user-select: none;
+    cursor: pointer;
+}
+
+.checkbox-wrapper-46 .cbx span {
+    display: inline-block;
+    vertical-align: middle;
+    transform: translate3d(0, 0, 0);
+}
+
+.checkbox-wrapper-46 .cbx span:first-child {
+    position: relative;
+    width: 18px;
+    height: 18px;
+    border-radius: 3px;
+    transform: scale(1);
+    vertical-align: middle;
+    border: 1px solid #9098a9;
+    transition: all 0.2s ease;
+}
+
+.checkbox-wrapper-46 .cbx span:first-child svg {
+    position: absolute;
+    top: 3px;
+    left: 2px;
+    fill: none;
+    stroke: #ffffff;
+    stroke-width: 2;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+    stroke-dasharray: 16px;
+    stroke-dashoffset: 16px;
+    transition: all 0.3s ease;
+    transition-delay: 0.1s;
+    transform: translate3d(0, 0, 0);
+}
+
+.checkbox-wrapper-46 .cbx span:first-child:before {
+    content: "";
+    width: 100%;
+    height: 100%;
+    background: #506eec;
+    display: block;
+    transform: scale(0);
+    opacity: 1;
+    border-radius: 50%;
+}
+
+.checkbox-wrapper-46 .cbx span:last-child {
+    padding-left: 8px;
+}
+
+.checkbox-wrapper-46 .cbx:hover span:first-child {
+    border-color: #506eec;
+}
+
+.checkbox-wrapper-46 .inp-cbx:checked+.cbx span:first-child {
+    background: #506eec;
+    border-color: #506eec;
+    animation: wave-46 0.4s ease;
+}
+
+.checkbox-wrapper-46 .inp-cbx:checked+.cbx span:first-child svg {
+    stroke-dashoffset: 0;
+}
+
+.checkbox-wrapper-46 .inp-cbx:checked+.cbx span:first-child:before {
+    transform: scale(3.5);
+    opacity: 0;
+    transition: all 0.6s ease;
+}
+
+@keyframes wave-46 {
+    50% {
+        transform: scale(0.9);
+    }
+}
+
+/*=====================Home=====================*/
+/*=====================App Electron=====================*/
+
+#topMenuBtns {
+    position: absolute;
+    right: 5px;
+}
+
+.topMenuBtn {
+    border: none;
+    outline: none;
+    background: #232429;
+    color: #ffffff;
+    -webkit-app-region: no-drag;
+}
+
+.topMenuBtn:hover {
+    background-color: #45464b;
+    color: #ffffff;
+}
+
+#topMenu {
+    user-select: none;
+    -ms-user-select: none;
+    -webkit-user-select: none;
+    -webkit-app-region: drag;
+    background-color: #232429;
+}
+
+/*=====================App Electron=====================*/
+/*=====================Scrollbar=====================*/
+
+.custom-scrollbar-css {
+    overflow-y: scroll;
+}
+
+.custom-scrollbar-css::-webkit-scrollbar {
+    width: 7px;
+}
+
+.custom-scrollbar-css::-webkit-scrollbar-track {
+    background: #232429;
+}
+
+.custom-scrollbar-css::-webkit-scrollbar-thumb {
+    border-radius: 1rem;
+    background-color: #ffffff;
+    background-image: linear-gradient(to top, #b8b8b8 0%, #b8b8b8 100%);
+}
